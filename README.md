@@ -1,39 +1,27 @@
-<!-- ============================================================ -->
-<!--   HEADER — Pure HTML/Markdown, zero external image deps     -->
-<!-- ============================================================ -->
+<!-- HEADER — self-hosted SVG in your own repo, always loads -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ArnavSharma03/ArnavSharma03/main/header.svg" width="100%" alt="Arnav Sharma — Cloud & Infrastructure Engineer"/>
+</p>
 
-<div align="center">
+<!-- BADGES — shields.io only, never breaks -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/arnavsharma03/">
+    <img src="https://img.shields.io/badge/LinkedIn-arnavsharma03-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:arnav18503@gmail.com">
+    <img src="https://img.shields.io/badge/Email-arnav18503@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=ArnavSharma03&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-3FB950?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Open to Work"/>
+</p>
 
-# ☁️ ARNAV SHARMA ☁️
-
-### `Cloud & Infrastructure Engineer` · `AWS-Certified` · `Terraform` · `ECS` · `FinOps`
-
-</div>
-
----
-
-<!-- ============================================================ -->
-<!--   BADGES — shields.io only (most reliable, never breaks)    -->
-<!-- ============================================================ -->
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-arnavsharma03-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnavsharma03/)
-[![Email](https://img.shields.io/badge/Email-arnav18503@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnav18503@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=ArnavSharma03&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS)](https://github.com/ArnavSharma03)
-[![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work-3FB950?style=for-the-badge&logo=checkmarx&logoColor=white)](https://www.linkedin.com/in/arnavsharma03/)
-
-</div>
-
-<div align="center">
-
-[![AWS SAA](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/)
-[![Terraform](https://img.shields.io/badge/IaC-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)](https://www.terraform.io/)
-[![ECS](https://img.shields.io/badge/Containers-ECS_%2B_ECR-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/ecs/)
-[![FinOps](https://img.shields.io/badge/FinOps-55--65%25_Cost_Saved-F7A800?style=flat-square&logo=amazonaws&logoColor=white)]()
-[![GuardDuty](https://img.shields.io/badge/Security-GuardDuty_%7C_Macie_%7C_IAM-3FB950?style=flat-square&logo=amazonaws&logoColor=white)]()
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-IaC_Multi--Cloud-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ECS_%2B_ECR-Containers-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FinOps-55--65%25_Cost_Saved-F7A800?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Security-GuardDuty_%7C_Macie_%7C_IAM-3FB950?style=flat-square&logo=amazonaws&logoColor=white"/>
+</p>
 
 <br/>
 
@@ -216,9 +204,9 @@ resource "wissenhive" "production" {
 
 <div align="center">
 
-[![AWS SAA](https://img.shields.io/badge/AWS_Solutions_Architect-Associate_SAA--C03-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/)
-[![Duke](https://img.shields.io/badge/Cloud_Virtualization_%26_Containers-Duke_University-012169?style=for-the-badge&logo=coursera&logoColor=white)](https://coursera.org)
-[![Alberta](https://img.shields.io/badge/Agile_%26_Software_Processes-Univ._of_Alberta-00693E?style=for-the-badge&logo=coursera&logoColor=white)](https://coursera.org)
+![AWS SAA](https://img.shields.io/badge/AWS_Solutions_Architect-Associate_SAA--C03-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Duke](https://img.shields.io/badge/Cloud_Virtualization_%26_Containers-Duke_University-012169?style=for-the-badge&logo=coursera&logoColor=white)
+![Alberta](https://img.shields.io/badge/Agile_%26_Software_Processes-Univ._of_Alberta-00693E?style=for-the-badge&logo=coursera&logoColor=white)
 
 </div>
 
@@ -264,7 +252,7 @@ resource "wissenhive" "production" {
 [![LinkedIn](https://img.shields.io/badge/Open_to_Cloud_%2F_DevOps_%2F_SRE_Roles-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnavsharma03/)
 [![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnav18503@gmail.com)
 
-*📍 Dehradun, India &nbsp;·&nbsp; ☁️ AWS-Certified Infrastructure Engineer &nbsp;·&nbsp; 🟢 Actively seeking Cloud / DevOps / SRE roles*
+*📍 Dehradun, India &nbsp;·&nbsp; ☁️ AWS-Certified Infrastructure Engineer &nbsp;·&nbsp; 🟢 Open to Cloud / DevOps / SRE roles*
 
 </div>
 
