@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="280" viewBox="0 0 900 280">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#020c1b"/>
+      <stop offset="35%" style="stop-color:#0a2540"/>
+      <stop offset="70%" style="stop-color:#0e4d8a"/>
+      <stop offset="100%" style="stop-color:#00d4ff;stop-opacity:0.8"/>
+    </linearGradient>
+    <linearGradient id="wave1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00d4ff;stop-opacity:0.15"/>
+      <stop offset="50%" style="stop-color:#0099cc;stop-opacity:0.1"/>
+      <stop offset="100%" style="stop-color:#00d4ff;stop-opacity:0.15"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="280" fill="url(#bg)"/>
+
+  <!-- Grid lines - horizontal -->
+  <line x1="0" y1="40" x2="900" y2="40" stroke="#00d4ff" stroke-opacity="0.05" stroke-width="1"/>
+  <line x1="0" y1="80" x2="900" y2="80" stroke="#00d4ff" stroke-opacity="0.05" stroke-width="1"/>
+  <line x1="0" y1="120" x2="900" y2="120" stroke="#00d4ff" stroke-opacity="0.05" stroke-width="1"/>
+  <line x1="0" y1="160" x2="900" y2="160" stroke="#00d4ff" stroke-opacity="0.05" stroke-width="1"/>
+  <line x1="0" y1="200" x2="900" y2="200" stroke="#00d4ff" stroke-opacity="0.05" stroke-width="1"/>
+  <line x1="0" y1="240" x2="900" y2="240" stroke="#00d4ff" stroke-opacity="0.05" stroke-width="1"/>
+
+  <!-- Grid lines - vertical -->
+  <line x1="90" y1="0" x2="90" y2="280" stroke="#00d4ff" stroke-opacity="0.05" stroke-width="1"/>
+  <line x1="180" y1="0" x2="180" y2="280" stroke="#00d4ff" stroke-opacity="0.05" stroke-width="1"/>
+  <line x1="270" y1="0" x2="270" y2="280" stroke="#00d4ff" stroke-opacity="0.05" stroke-width="1"/>
+  <line x1="360" y1="0" x2="360" y2="280" stroke="#00d4ff" stroke-opacity="0.05" stroke-width="1"/>
+  <line x1="450" y1="0" x2="450" y2="280" stroke="#00d4ff" stroke-opacity="0.05" stroke-width="1"/>
+  <line x1="540" y1="0" x2="540" y2="280" stroke="#00d4ff" stroke-opacity="0.05" stroke-width="1"/>
+  <line x1="630" y1="0" x2="630" y2="280" stroke="#00d4ff" stroke-opacity="0.05" stroke-width="1"/>
+  <line x1="720" y1="0" x2="720" y2="280" stroke="#00d4ff" stroke-opacity="0.05" stroke-width="1"/>
+  <line x1="810" y1="0" x2="810" y2="280" stroke="#00d4ff" stroke-opacity="0.05" stroke-width="1"/>
+
+  <!-- Floating cloud shapes - decorative -->
+  <ellipse cx="80" cy="60" rx="55" ry="22" fill="#00d4ff" fill-opacity="0.04"/>
+  <ellipse cx="110" cy="50" rx="40" ry="18" fill="#00d4ff" fill-opacity="0.04"/>
+  <ellipse cx="800" cy="220" rx="65" ry="25" fill="#00d4ff" fill-opacity="0.04"/>
+  <ellipse cx="840" cy="210" rx="45" ry="20" fill="#00d4ff" fill-opacity="0.04"/>
+  <ellipse cx="150" cy="230" rx="50" ry="20" fill="#f7a800" fill-opacity="0.03"/>
+  <ellipse cx="750" cy="55" rx="55" ry="22" fill="#f7a800" fill-opacity="0.03"/>
+
+  <!-- Glowing dots - cloud nodes -->
+  <circle cx="60" cy="140" r="3" fill="#00d4ff" fill-opacity="0.5"/>
+  <circle cx="840" cy="140" r="3" fill="#00d4ff" fill-opacity="0.5"/>
+  <circle cx="150" cy="40" r="2" fill="#f7a800" fill-opacity="0.6"/>
+  <circle cx="750" cy="240" r="2" fill="#f7a800" fill-opacity="0.6"/>
+  <circle cx="30" cy="250" r="2" fill="#3fb950" fill-opacity="0.5"/>
+  <circle cx="870" cy="30" r="2" fill="#3fb950" fill-opacity="0.5"/>
+
+  <!-- Connecting lines - network feel -->
+  <line x1="60" y1="140" x2="150" y2="40" stroke="#00d4ff" stroke-opacity="0.12" stroke-width="1"/>
+  <line x1="840" y1="140" x2="750" y2="240" stroke="#00d4ff" stroke-opacity="0.12" stroke-width="1"/>
+  <line x1="30" y1="250" x2="150" y2="40" stroke="#f7a800" stroke-opacity="0.08" stroke-width="1"/>
+  <line x1="870" y1="30" x2="750" y2="240" stroke="#f7a800" stroke-opacity="0.08" stroke-width="1"/>
+
+  <!-- Bottom wave -->
+  <path d="M0,260 Q225,230 450,255 Q675,278 900,250 L900,280 L0,280 Z" fill="#0d1117" fill-opacity="1"/>
+  <path d="M0,268 Q225,245 450,265 Q675,283 900,260 L900,280 L0,280 Z" fill="#0d1117" fill-opacity="1"/>
+
+  <!-- AWS Icon hint - top right corner -->
+  <text x="855" y="30" font-family="monospace" font-size="11" fill="#f7a800" fill-opacity="0.5">AWS</text>
+  <text x="845" y="45" font-family="monospace" font-size="9" fill="#00d4ff" fill-opacity="0.4">☁ Cloud</text>
+
+  <!-- Main title -->
+  <text x="450" y="118" text-anchor="middle" font-family="'Courier New', monospace" font-size="46" font-weight="bold" fill="white" filter="url(#glow)">ARNAV SHARMA</text>
+
+  <!-- Subtitle -->
+  <text x="450" y="152" text-anchor="middle" font-family="'Courier New', monospace" font-size="14" fill="#00d4ff" fill-opacity="0.9" letter-spacing="1">Cloud &amp; Infrastructure Engineer</text>
+
+  <!-- Tag line pills -->
+  <rect x="200" y="168" width="100" height="22" rx="11" fill="#f7a800" fill-opacity="0.15"/>
+  <text x="250" y="183" text-anchor="middle" font-family="monospace" font-size="11" fill="#f7a800">AWS-Certified</text>
+
+  <rect x="312" y="168" width="80" height="22" rx="11" fill="#7b42bc" fill-opacity="0.2"/>
+  <text x="352" y="183" text-anchor="middle" font-family="monospace" font-size="11" fill="#9b59ff">Terraform</text>
+
+  <rect x="404" y="168" width="50" height="22" rx="11" fill="#00d4ff" fill-opacity="0.12"/>
+  <text x="429" y="183" text-anchor="middle" font-family="monospace" font-size="11" fill="#00d4ff">ECS</text>
+
+  <rect x="466" y="168" width="60" height="22" rx="11" fill="#3fb950" fill-opacity="0.12"/>
+  <text x="496" y="183" text-anchor="middle" font-family="monospace" font-size="11" fill="#3fb950">FinOps</text>
+
+  <rect x="538" y="168" width="80" height="22" rx="11" fill="#dd344c" fill-opacity="0.15"/>
+  <text x="578" y="183" text-anchor="middle" font-family="monospace" font-size="11" fill="#ff6b6b">Security</text>
+
+  <!-- Cost reduction stat -->
+  <text x="450" y="222" text-anchor="middle" font-family="monospace" font-size="12" fill="#f7a800" fill-opacity="0.85">💸 55-65% Cloud Cost Reduction in Production</text>
+
+  <!-- Location -->
+  <text x="450" y="244" text-anchor="middle" font-family="monospace" font-size="11" fill="white" fill-opacity="0.45">📍 Dehradun, India  ·  🟢 Open to Cloud / DevOps / SRE Roles</text>
+</svg>
