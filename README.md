@@ -1,24 +1,39 @@
-<!-- HEADER — using reliable capsule-render -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020c1b,25:0a2540,55:0e4d8a,80:0099cc,100:00d4ff&height=250&section=header&text=ARNAV%20SHARMA&fontSize=60&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=Cloud%20%26%20Infrastructure%20Engineer%20%7C%20AWS-Certified%20%7C%20Terraform%20%7C%20ECS%20%7C%20FinOps&descSize=15&descAlignY=56&descAlign=50&animation=fadeIn" alt="Header" />
-</p>
+<!-- ============================================================ -->
+<!--   HEADER — Pure HTML/Markdown, zero external image deps     -->
+<!-- ============================================================ -->
 
-<!-- TYPING SVG — demolab is most reliable host -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=800&lines=🔧+Provisioning+production+AWS+with+Terraform+IaC...;💸+55-65%25+cloud+cost+reduction+in+production;🐳+Microservices+on+Amazon+ECS+%2B+ECR;🔒+GuardDuty+%7C+Macie+%7C+IAM+%7C+CloudTrail+%7C+VPC;🌐+Multi-Account+AWS+%7C+Oracle+Cloud+%7C+Azure;⚡+Open+to+Cloud+%2F+DevOps+%2F+SRE+Roles" alt="Typing SVG" />
-</p>
+<div align="center">
 
-<!-- BADGES -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/arnavsharma03/">
-    <img src="https://img.shields.io/badge/LinkedIn-arnavsharma03-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:arnav18503@gmail.com">
-    <img src="https://img.shields.io/badge/Email-arnav18503@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=ArnavSharma03&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS" alt="Profile views"/>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-3FB950?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Open to work"/>
-</p>
+# ☁️ ARNAV SHARMA ☁️
+
+### `Cloud & Infrastructure Engineer` · `AWS-Certified` · `Terraform` · `ECS` · `FinOps`
+
+</div>
+
+---
+
+<!-- ============================================================ -->
+<!--   BADGES — shields.io only (most reliable, never breaks)    -->
+<!-- ============================================================ -->
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-arnavsharma03-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnavsharma03/)
+[![Email](https://img.shields.io/badge/Email-arnav18503@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnav18503@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=ArnavSharma03&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS)](https://github.com/ArnavSharma03)
+[![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work-3FB950?style=for-the-badge&logo=checkmarx&logoColor=white)](https://www.linkedin.com/in/arnavsharma03/)
+
+</div>
+
+<div align="center">
+
+[![AWS SAA](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/)
+[![Terraform](https://img.shields.io/badge/IaC-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)](https://www.terraform.io/)
+[![ECS](https://img.shields.io/badge/Containers-ECS_%2B_ECR-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/ecs/)
+[![FinOps](https://img.shields.io/badge/FinOps-55--65%25_Cost_Saved-F7A800?style=flat-square&logo=amazonaws&logoColor=white)]()
+[![GuardDuty](https://img.shields.io/badge/Security-GuardDuty_%7C_Macie_%7C_IAM-3FB950?style=flat-square&logo=amazonaws&logoColor=white)]()
+
+</div>
 
 <br/>
 
@@ -46,13 +61,6 @@ arnav@aws-cloud:~$ echo $MISSION
 "Don't just provision infra. Architect systems that scale,
  stay secure, and never waste a dollar."
 ```
-
-<br/>
-
-<!-- LIVE ARCHITECTURE FLOW TYPING -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2000&pause=400&color=3FB950&center=true&vCenter=true&width=750&lines=AWS+Flow+→+[Route53]+→+[CloudFront]+→+[ALB]+→+[ECS+Cluster]+→+[RDS];Security+→+[IAM]+→+[GuardDuty]+→+[Macie]+→+[CloudTrail]+→+[VPC+Endpoints];FinOps+→+[Tag]+→+[Right-Size]+→+[Reserve]+→+[Cleanup]+→+[55-65%25+Saved+✓];IaC+→+[Terraform+Plan]+→+[Apply]+→+[State+Lock]+→+[Drift+Check]+→+[Done+✓]" alt="Architecture flow" />
-</p>
 
 <br/>
 
@@ -118,7 +126,7 @@ arnav@aws-cloud:~$ echo $MISSION
 ## 💼 Experience
 
 <details open>
-<summary><b>🔧 Infrastructure Engineer — Wissenhive E-Learning &nbsp;|&nbsp; <img src="https://img.shields.io/badge/Apr_2026-Present-00D4FF?style=flat-square" alt="Apr 2026 - Present"/></b></summary>
+<summary><b>🔧 Infrastructure Engineer — Wissenhive E-Learning &nbsp;|&nbsp; Apr 2026 – Present · Remote</b></summary>
 <br>
 
 ```terraform
@@ -137,7 +145,7 @@ resource "wissenhive" "production" {
 </details>
 
 <details>
-<summary><b>🏛️ Cloud Architect Intern — Wissenhive E-Learning &nbsp;|&nbsp; <img src="https://img.shields.io/badge/Dec_2025-Mar_2026-58A6FF?style=flat-square" alt="Dec 2025 - Mar 2026"/></b></summary>
+<summary><b>🏛️ Cloud Architect Intern — Wissenhive E-Learning &nbsp;|&nbsp; Dec 2025 – Mar 2026 · Remote</b></summary>
 <br>
 
 - 🏗️ Architected full AWS production stack — EC2, S3, VPC, IAM, CloudWatch — **AWS Well-Architected Framework**
@@ -147,7 +155,7 @@ resource "wissenhive" "production" {
 </details>
 
 <details>
-<summary><b>🛡️ Cloud Support Engineer — OneUp Networks &nbsp;|&nbsp; <img src="https://img.shields.io/badge/Sep_2025-Dec_2025-F7A800?style=flat-square" alt="Sep 2025 - Dec 2025"/></b></summary>
+<summary><b>🛡️ Cloud Support Engineer — OneUp Networks &nbsp;|&nbsp; Sep 2025 – Dec 2025 · Remote</b></summary>
 <br>
 
 - ⏱️ Maintained **99% uptime SLA** for US enterprise clients — QuickBooks, Thomson Reuters
@@ -161,7 +169,7 @@ resource "wissenhive" "production" {
 
 ## 🛠️ Tech Stack
 
-<p align="center">
+<div align="center">
 
 **☁️ Cloud Platforms**
 
@@ -189,7 +197,7 @@ resource "wissenhive" "production" {
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-**💻 Languages & Ops**
+**💻 Languages & Ops Tools**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
@@ -198,7 +206,7 @@ resource "wissenhive" "production" {
 ![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white)
 ![Veeam](https://img.shields.io/badge/Veeam-00B336?style=for-the-badge&logo=veeam&logoColor=white)
 
-</p>
+</div>
 
 <br/>
 
@@ -206,11 +214,13 @@ resource "wissenhive" "production" {
 
 ## 🏅 Certifications
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS_Solutions_Architect-Associate_SAA--C03-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS SAA"/>
-  <img src="https://img.shields.io/badge/Cloud_Virtualization_%26_Containers-Duke_University-012169?style=for-the-badge&logo=coursera&logoColor=white" alt="Duke"/>
-  <img src="https://img.shields.io/badge/Agile_%26_Software_Processes-Univ._of_Alberta-00693E?style=for-the-badge&logo=coursera&logoColor=white" alt="Alberta"/>
-</p>
+<div align="center">
+
+[![AWS SAA](https://img.shields.io/badge/AWS_Solutions_Architect-Associate_SAA--C03-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/)
+[![Duke](https://img.shields.io/badge/Cloud_Virtualization_%26_Containers-Duke_University-012169?style=for-the-badge&logo=coursera&logoColor=white)](https://coursera.org)
+[![Alberta](https://img.shields.io/badge/Agile_%26_Software_Processes-Univ._of_Alberta-00693E?style=for-the-badge&logo=coursera&logoColor=white)](https://coursera.org)
+
+</div>
 
 <br/>
 
@@ -218,14 +228,14 @@ resource "wissenhive" "production" {
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ArnavSharma03&show_icons=true&theme=github_dark&hide_border=true&title_color=00d4ff&icon_color=f7a800&text_color=c9d1d9&bg_color=0d1117&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats"/>
-  <img width="49%" src="https://streak-stats.demolab.com/?user=ArnavSharma03&theme=github-dark-blue&hide_border=true&ring=f7a800&fire=00d4ff&currStreakLabel=f7a800&background=0d1117&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e&currStreakNum=00d4ff" alt="Streak Stats"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ArnavSharma03&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6&title=Stars,Commit,Repositories,Issues,Followers,PullRequest" alt="Trophies"/>
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ArnavSharma03&show_icons=true&theme=github_dark&hide_border=true&title_color=00d4ff&icon_color=f7a800&text_color=c9d1d9&bg_color=0d1117&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats"/>
+<img width="49%" src="https://streak-stats.demolab.com/?user=ArnavSharma03&theme=github-dark-blue&hide_border=true&ring=f7a800&fire=00d4ff&currStreakLabel=f7a800&background=0d1117&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e" alt="Streak Stats"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ArnavSharma03&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" alt="Trophies"/>
+
+</div>
 
 <br/>
 
@@ -233,13 +243,15 @@ resource "wissenhive" "production" {
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ArnavSharma03/ArnavSharma03/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/ArnavSharma03/ArnavSharma03/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution Snake" src="https://github.com/ArnavSharma03/ArnavSharma03/blob/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</p>
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ArnavSharma03/ArnavSharma03/blob/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ArnavSharma03/ArnavSharma03/blob/output/github-contribution-grid-snake.svg"/>
+  <img alt="Contribution Snake" src="https://github.com/ArnavSharma03/ArnavSharma03/blob/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
+</div>
 
 <br/>
 
@@ -247,25 +259,19 @@ resource "wissenhive" "production" {
 
 ## 📡 Let's Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/arnavsharma03/">
-    <img src="https://img.shields.io/badge/Open_to_Cloud_%2F_DevOps_%2F_SRE_Roles-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:arnav18503@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <i>📍 Dehradun, India &nbsp;·&nbsp; ☁️ AWS-Certified Infrastructure Engineer &nbsp;·&nbsp; 🟢 Actively seeking Cloud / DevOps / SRE roles</i>
-</p>
+[![LinkedIn](https://img.shields.io/badge/Open_to_Cloud_%2F_DevOps_%2F_SRE_Roles-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnavsharma03/)
+[![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnav18503@gmail.com)
 
-<!-- FOOTER WAVE -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,40:0e4d8a,80:0a2540,100:020c1b&height=130&section=footer&animation=fadeIn" alt="Footer"/>
-</p>
+*📍 Dehradun, India &nbsp;·&nbsp; ☁️ AWS-Certified Infrastructure Engineer &nbsp;·&nbsp; 🟢 Actively seeking Cloud / DevOps / SRE roles*
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3500&pause=1200&color=00D4FF&center=true&vCenter=true&width=700&lines=⚡+Built+with+Terraform+·+Monitored+with+CloudWatch+·+Secured+with+IAM+⚡" alt="Footer text"/>
-</p>
+</div>
+
+---
+
+<div align="center">
+
+`⚡ Built with Terraform · Monitored with CloudWatch · Secured with IAM · Optimised Obsessively ⚡`
+
+</div>
