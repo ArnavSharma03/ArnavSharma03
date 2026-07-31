@@ -79,9 +79,6 @@ On-demand, browser-based cloud lab environments (Linux GUI, Kali Linux) integrat
 
 **[EdTech Learning Platform](#)**
 Full-stack platform with dedicated Student/Instructor dashboards and an integrated payment gateway for course purchases.
-
-> 💡 Tip: replace the `#` links above with the actual repo URLs once you pin them.
-
 ---
 
 ### 📜 Certifications
